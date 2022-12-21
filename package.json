@@ -1,0 +1,22 @@
+{
+  "name": "expressjsrest",
+  "version": "1.0.0",
+  "description": "![Teach Jenn Tech backend development with express](https://user-images.githubusercontent.com/77285384/208787167-384cef36-cad7-4ea0-bbf7-463a7ae253e5.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennjunod/expressjsrestapi07112022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennjunod/expressjsrestapi07112022/issues"
+  },
+  "homepage": "https://github.com/jennjunod/expressjsrestapi07112022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
