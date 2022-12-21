@@ -3,6 +3,8 @@
 
 # Introduction to backend development with express.js
 
+[Checkout the video on YouTube](https://youtu.be/NLbSYsgckd0) 
+
 Join Jenn to learn about Backend Development with Express.js, and REST API. 
 
 Ramón Huidobro is a developer advocate and deved enthusiast. He thrives on lifting others up in their tech careers and loves a good CSS challenge. Always excited to talk about teaching tech, especialmente en Español, oder auf Deutsch.
